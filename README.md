@@ -1,4 +1,4 @@
 # README.md
-. this is my README.md
-. this is my new README.md
-. GitHub is a useful tool
+this is my README.md  
+this is my new README.md  
+GitHub is a useful tool  
